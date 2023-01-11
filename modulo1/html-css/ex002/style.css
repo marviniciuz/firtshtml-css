@@ -1,0 +1,18 @@
+body{
+
+    background-color: brown;
+
+}
+.paragrafo1{
+
+    color: green;
+    font-size: large;
+}
+div{
+    color: green;
+    background-color: pink;
+    height: 20px;
+    width: 200px; 
+    padding: 20px;
+    margin: 20px;
+}
