@@ -1,0 +1,24 @@
+body{
+    background-color:cornflowerblue;
+}
+
+h1{
+    color: chocolate;
+}
+
+ol{
+    margin: 10;
+    padding: 10;
+}
+
+li{
+    color: brown;
+}
+
+h2{
+    color: chocolate; 
+}
+
+dl{
+    color: aqua;
+}
