@@ -1,0 +1,11 @@
+body{
+    background-color: royalblue;
+}
+
+img{
+    border-radius: 300px;
+}
+
+a,p{
+    display: inline-block;
+}
